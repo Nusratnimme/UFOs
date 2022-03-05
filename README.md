@@ -1,8 +1,8 @@
-# UFO sightings
+# Who's there: UFO sightings
 
 ## Overview
 
-Dana, a data journalist, got an assignment to write about UFO sightings. She would like to create an HTML webpage that include a dynamic table providing information on all UFO sightings in the US.
+Dana, a data journalist, got an assignment to write about UFO sightings. She would like to create an webpage that includes a dynamic table providing information on all UFO sightings in the US.
 
 ### Resources
 
@@ -12,7 +12,7 @@ Dana, a data journalist, got an assignment to write about UFO sightings. She wou
 - HTML
 - Bootstrap 
 
-### purpose
+### Purpose
 
 The purpose of this project is to use JavaScript, HTML, and CSS to create a custom webpage that presents UFO sightings and allows users to filter the data by Date, City, State, Country, and Shape.
 
@@ -54,4 +54,4 @@ Apart from addressing the drawbacks above, the webpage could be improved by:
 - Allowing multiple inputs in City, State, Country, and Shape, e.g., UFO sightings in North and South Carolina together.
 - Allowing sorting based on any column by clicking on the column title.
 - Adding option to export the data according to current filtering.
-- (Most importantly) Presenting the data in a map in addition to a table.
+- Presenting the data in a map in addition to a table.
