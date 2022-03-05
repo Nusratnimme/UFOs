@@ -26,19 +26,19 @@ The purpose of this project is to use JavaScript, HTML, and CSS to create a cust
     
 - The HTML script is able, by calling the JavaScripts function, to display filtered table. Below is the webpage without any filters:
 
-![Without_Filter]()
+![Without_Filter](https://github.com/Nusratnimme/UFOs/blob/main/Resources/Without_Filter.png)
 
 - User can filter the table on one or more criteria. For example, below image shows the table filtered by the **shape** (light) only:
 
-![Filter_shape]()
+![Filter_shape](https://github.com/Nusratnimme/UFOs/blob/main/Resources/Filter_shape_light.png)
 
 - And below image shows the table filtered on **state** (ca) and **shape** (light):
 
-![Filter_state_shape]()
+![Filter_state_shape](https://github.com/Nusratnimme/UFOs/blob/main/Resources/Filter_State_Shape.png)
 
 - Some Bootstrap elements and css stytling were added to enhance the appearance of the web page.
 
-![UFO_webpage]()`
+![UFO_webpage](https://github.com/Nusratnimme/UFOs/blob/main/Resources/UFO_webpage.png)`
 
 
 ## Summary
